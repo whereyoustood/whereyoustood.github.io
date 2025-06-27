@@ -11,7 +11,7 @@ We use research and polite questioning to find out where they stand.
 
 Because the kids will ask…
 
-[Here is what we've found out so for:](https://github.com/whereyoustood/publicfiguresonpalestine/blob/main/positionsonpalestine.csv)
+[Here is what we've found out so far:](https://github.com/whereyoustood/publicfiguresonpalestine/blob/main/positionsonpalestine.csv)
 
 ## How it works
 
