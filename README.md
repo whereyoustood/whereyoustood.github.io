@@ -43,8 +43,11 @@ Then you can add them like this.
 It is quite simple to add to the database on the website Github where it is stored. We prefer people do this though it is very slightly more technical. These are the steps:
 
 1) create a GitHub account
+   
 2) make a copy of the database by visiting this page https://github.com/whereyoustood/publicfiguresonpalestine and (technical term you don’t need to understand) then make a `fork` of the repository.
+
 3) visit that copy at github.com/YOURUSERNAME/publicfiguresonpalestine.csv and click the `Edit this file` button (pencil symbol on the right).
+
 4) for each person you would like to add an entry for, you should add a new line to the file. Your line should have information for each of the six columns in the table, with each column separated by a comma:
 
 `Name, Profession/Domain, Is Israel committing genocide?, Is it apartheid?, Do you back the boycott of Israel?, What have you done for Palestine?`
@@ -54,9 +57,12 @@ for example:
 `Mr. Example Celebrity Politician, Singer and Politician, Opinion unknown, Person denies it is apartheid (archive.org link to undeniable evidence), Rejects the boycott of Israel (archive.org link to undeniable evidence), Nothing in support.`
 
 5) Now create a request for us to merge your entry into the main database. To do that click on the `Pull request` option. Please email us any additional notes about your entry.
+
 6) We will see the pull request and merge the entry once we have checked it.
 
 
 ### Secondary method
 
-Email us
+Send us a message here: (https://kolektiva.social/@whereyoustood)[https://kolektiva.social/@whereyoustood]
+
+Email coming soon.
