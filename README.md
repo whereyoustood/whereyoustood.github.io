@@ -1,11 +1,11 @@
 # Where You Stood - Public figures on Palestine
 
-Israel’s assault on Gaza has been described as genocide by experts. Its overall control of Palestine is similarly viewed as apartheid. As famine sets in and world governments continue to support Israeli war crimes, public opinion is one of the few things that might alter the fate of oppressed Palestinians.
+Israel’s assault on Gaza has been [described as genocide by experts](https://en.wikipedia.org/wiki/Gaza_genocide). Its overall control of Palestine is similarly [viewed as apartheid](https://www.amnesty.org/en/latest/campaigns/2022/02/israels-system-of-apartheid/). As famine sets in and world governments continue to support Israeli war crimes, public opinion is one of the few things that might alter the fate of oppressed Palestinians.
 
 The opinion of public figures holds so much sway.
-Yet we still don’t know where so many actually stand on the matter
+Yet we still don’t know where many actually stand on the matter.
 
-This is a project to surface information about the positions of public figures and people of professional standing on Palestine.
+This is a project to gather information about the positions of public figures and people of professional standing on Palestine.
 
 We use research and polite questioning to find out where they stand.
 
@@ -63,6 +63,6 @@ for example:
 
 ### Secondary method
 
-Send us a message here: (https://kolektiva.social/@whereyoustood)[https://kolektiva.social/@whereyoustood]
+Send us a message here: [https://kolektiva.social/@whereyoustood](https://kolektiva.social/@whereyoustood)
 
 Email coming soon.
