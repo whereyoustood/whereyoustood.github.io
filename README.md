@@ -28,17 +28,33 @@ To make the project manageable we ask the following questions.
 - What have you done for Palestine?
 
 
-And spread the word. The more people know about the project the more likely we are to get the info.
+
+
+## And spread the word 
+
+The more people know about the project the more likely we are to get the info.
 
 
 ## How to contribute to the database
 
-This is a crowd-sourced project. We rely on your contributions. Please make sure your contributions follow our format, have properly evidence for every claim, do not include defamatory language, and have been researched through polite enquiries.
+This is a crowd-sourced project. We rely on your contributions. Please make sure your contributions follow our data format (i.e. as answers to our four questions above), have proper evidence for every claim, do not include defamatory language, and have been researched through polite enquiries.
 
-Then you can add them like this.
+We specifically need your help to:
+
+1) Select prominent people (and their contact details) to research. You can share suggestions as direct messages, or comments under relevant posts on Mastodo.
+
+2) Politely approach these people, by email or otherwise. We can provide email templates to help.
+
+3) Follow up with them to ensure they have had a chance to respond. In some cases, multiple follow-ups from different people in unison may be effective.
+
+4) Send us their responses with proof of correspondence (screenshots and forwarded emails).
+
+Small contributions from lots of people will help us make a recognized database of support, silence and complicity. 
 
 
-### Preferred method
+
+
+### Preferred method to submit responses
 
 It is quite simple to add to the database on the website Github where it is stored. We prefer people do this though it is very slightly more technical. These are the steps:
 
