@@ -43,7 +43,7 @@ We specifically need your help to:
 
 1) Select prominent people (and their contact details) to research. You can share suggestions as direct messages, or comments under relevant posts on Mastodon.
 
-2) Politely approach these people, by email or otherwise. We can provide email templates to help.
+2) Politely approach these people, by email or otherwise. Send an initial message without information about the project, just to check that the account is active. We can provide email templates to help. 
 
 3) Follow up with them to ensure they have had a chance to respond. In some cases, multiple follow-ups from different people in unison may be effective.
 
