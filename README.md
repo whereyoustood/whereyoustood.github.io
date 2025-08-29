@@ -41,7 +41,7 @@ This is a crowd-sourced project. We rely on your contributions. Please make sure
 
 We specifically need your help to:
 
-1) Select prominent people (and their contact details) to research. You can share suggestions as direct messages, or comments under relevant posts on Mastodo.
+1) Select prominent people (and their contact details) to research. You can share suggestions as direct messages, or comments under relevant posts on Mastodon.
 
 2) Politely approach these people, by email or otherwise. We can provide email templates to help.
 
