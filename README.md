@@ -86,5 +86,5 @@ Email coming soon.
 
 ## Database
 
-{% raw %}{% include datatable %}{% endraw %}
+{% include datatable %}
 
