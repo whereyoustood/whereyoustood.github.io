@@ -86,6 +86,7 @@ Email coming soon.
 
 ## Database
 
+{% raw %}
 <table>
   {% for row in site.data.positionsonpalestine %}
     {% if forloop.first %}
@@ -97,3 +98,4 @@ Email coming soon.
     {% endif %}
   {% endfor %}
 </table>
+{% endraw %}
