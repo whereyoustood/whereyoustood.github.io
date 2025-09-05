@@ -1,0 +1,15 @@
+<table>
+  {% for row in site.data.positionsonpalestine %}
+    {% if forloop.first %}
+    <tr>
+      {% for entry in row %}
+        <th>{{ entry[0] }}</th>
+      {% endfor %}
+    </tr>
+    {% endif %}
+
+    {% tablerow entry in row %}
+      {{ entry[1] }}
+    {% endtablerow %}
+  {% endfor %}
+</table>
