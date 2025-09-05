@@ -82,3 +82,18 @@ for example:
 Send us a message here: [https://kolektiva.social/@whereyoustood](https://kolektiva.social/@whereyoustood)
 
 Email coming soon.
+
+
+## Database
+
+<table>
+  {% for row in site.data.positionsonpalestine %}
+    {% if forloop.first %}
+    <tr>
+      {% for pair in row %}
+        <th>{{ pair[0] }}</th>
+      {% endfor %}
+    </tr>
+    {% endif %}
+  {% endfor %}
+</table>
