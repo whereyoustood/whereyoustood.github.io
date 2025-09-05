@@ -86,16 +86,5 @@ Email coming soon.
 
 ## Database
 
-{% raw %}
-<table>
-  {% for row in site.data.positionsonpalestine %}
-    {% if forloop.first %}
-    <tr>
-      {% for pair in row %}
-        <th>{{ pair[0] }}</th>
-      {% endfor %}
-    </tr>
-    {% endif %}
-  {% endfor %}
-</table>
-{% endraw %}
+{% raw %}{% include datatable %}{% endraw %}
+
